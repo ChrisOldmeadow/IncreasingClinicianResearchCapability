@@ -129,8 +129,8 @@ class: inverse
 # do we need more trained researchers?
 
 ![paper](paper1.png)
-*""“a set of purposefully coordinated components that target multiple levels and sectors of a system, that operate both independently and inter-dependently, and that interact in the contexts in which they are implemented”"
-* "empowering and enabling different levels of the health research system to conduct research"
+*""a set of purposefully coordinated components that target multiple levels and sectors of a system, that operate both independently and inter-dependently, and that interact in the contexts in which they are implemented
+* empowering and enabling different levels of the health research system to conduct research
 
 ---
 # Program theories (other than just training)
@@ -139,6 +139,7 @@ Signalling the importance of Research Capability Development
 - Positive role models
 - signal importance
 - make a difference
+
 Functional aspects
 - Liberate talents
 - release Resources
