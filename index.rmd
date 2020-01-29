@@ -56,7 +56,7 @@ library(emo)
 -  HMRI is to increase the amount of T3-T4 translation research
 - `r emo::ji("demon")`  There are no/limited pathways for clinicians to develop research capability
 - `r emo::ji("demon")`  Blockages at the interface between HNELHD, UoN and HMRI 
--  clinicians that are active in research  provide better care to patients
+
 
 
 ---
@@ -71,6 +71,9 @@ class: inverse
  To develop a prototype model where HMRI can facilitate research pathways/ capability development for clinicians within the HNELHD. 
 ]
 
+Benefits:
+- To UoN: More grant funding, higher quality papers, more papers accepted
+- To HNE: Better patient care
 
 ---
 class: inverse
@@ -78,29 +81,22 @@ class: inverse
 # Critical Questions? 
 
 --
-
-- What are the stakeholder and  organisational objectives?
-- Are we trying to train better researchers or do better clinically relevant research
+- How are the key stakeholders (either help or hinder)
+- What are the stakeholder and organisational objectives?
+    - Are we trying to train better researchers or do better clinically relevant research
 - How do we define research capacity development?
-
-    
-- what is the span of operation and activities (individual, organisation, network)
-- what are the mechanisms that support meaningful RCD 
-
-
-
-
 
 
 ---
-- What are the possible models
-  -Prioritisation; 
-  - Mentoring for research; 
-  - Research leadership; 
-  - Research facilitation; 
-  - Research skills training; 
-  - Funding (including bursaries and fellowships); 
-  - Networks and collaborations; Infrastructure.
+# Critical Questions? 
+
+- What is the span of operation and activities (individual, organisation, network)
+- What are the mechanisms that support meaningful research capability development 
+
+- What are the barriers to the implementation of any system/framework
+  - How to motivate a research environment
+  - How to support research naive groups
+
 
 
 
@@ -115,6 +111,43 @@ class: inverse
 - Maralyn Foureur (Uon/HNE nursing)
 - "consumers"
 ---
+
+# Do we need more trained researchers?
+
+![paper](paper1.png)
+
+* a set of purposefully coordinated components that target multiple levels and sectors of a system, that operate both independently and inter-dependently, and that interact in the contexts in which they are implemented
+* *empowering* and *enabling* different levels of the health research system to conduct research
+
+---
+# What are the possible components to the system:
+  - Prioritisation of research areas / clincial problems; 
+  - Mentoring for research; 
+  - Research leadership; 
+  - Research facilitation; 
+  - Research skills training; 
+  - Funding (including phillanthropy, grants and fellowships); 
+  - Networks and collaborations; Infrastructure.
+
+---
+# Program theories (other than just training)
+
+Signalling the importance of Research Capability Development
+- Positive role models
+- Signal importance
+- Make a difference
+
+Functional aspects:
+- Liberate talents
+- Release Resources
+- Learning by doing
+- Co-production of knowledge
+
+
+---
+
+
+
 # Summary from Pete Pockney
 
 - Clinical Research Fellowship for trainee surgeons
@@ -123,28 +156,6 @@ class: inverse
 - works well when jobs can be split
 - Key aspects: Administration, Projects
 - Risks : In other areas retaining these researchers as clinicians
-
----
-
-# do we need more trained researchers?
-
-![paper](paper1.png)
-*""“a set of purposefully coordinated components that target multiple levels and sectors of a system, that operate both independently and inter-dependently, and that interact in the contexts in which they are implemented”"
-* "empowering and enabling different levels of the health research system to conduct research"
-
----
-# Program theories (other than just training)
-
-Signalling the importance of Research Capability Development
-- Positive role models
-- signal importance
-- make a difference
-Functional aspects
-- Liberate talents
-- release Resources
-- Learning by doing
-- co-production of knowledge
-
 
 
 
