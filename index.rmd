@@ -27,7 +27,7 @@ class: inverse, center, title-slide, middle
 # HMRI Research Support System Design
 ## Increasing Clinician Research Capability
 
-### Chris Oldmeadow, Chris williams, Chris Grainge, Vanessa MacDonald, Luke Wolfenden 
+### Chris Oldmeadow, Chris Williams, Chris Grainge, Vanessa McDonald, Luke Wolfenden 
 
  
 ### `r Sys.Date()`
