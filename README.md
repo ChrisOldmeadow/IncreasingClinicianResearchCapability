@@ -1,1 +1,1 @@
-# ChrisOldmeadow.github.io/AdpativeTrials
+# ChrisOldmeadow.github.io/IncreasingClinicianResearchCapability
